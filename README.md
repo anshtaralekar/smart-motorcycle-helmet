@@ -85,7 +85,7 @@ The system continuously monitors rider conditions using multiple sensors and aut
 
 Project source code is available in:
 
-![Source code](code/smart-helmet-stm32.ino)
+[Source code](code/smart-helmet-stm32.ino)
 
 ## Prototype
 
@@ -139,16 +139,13 @@ Project source code is available in:
 * Helmet Wear Detection
 * Solar-Powered Operation
 
-## Project Report
+## Documentation
 
-Complete project documentation is available in:
-
-![View Project Report](docs/minor-project-report.pdf)
+[View Full Project Report](docs/mini-project-report.pdf)
 
 ## Author
 
-Ansh Taralekar
+* Ansh Taralekar
 
-## License
-
-This repository is intended for academic and educational purposes.
+Electronics & Telecommunication Engineering
+K. J. Somaiya Institute of Technology GitHub: https://github.com/anshtaralekar
