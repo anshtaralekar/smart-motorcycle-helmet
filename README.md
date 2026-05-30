@@ -43,31 +43,31 @@ The system continuously monitors rider conditions using multiple sensors and aut
 
 ### STM32 Bluepill
 
-![STM32 Bluepill](images/stm32-bluepill.png)
+![STM32 Bluepill](images/stm32.png)
 
 *Figure 3: STM32F103C8T6 Bluepill Microcontroller.*
 
 ### MQ-3 Alcohol Sensor
 
-![MQ3 Sensor](images/mq3-sensor.png)
+![MQ3 Sensor](images/alcohol-sensor.png)
 
 *Figure 4: MQ-3 Alcohol Detection Sensor.*
 
 ### MPU6050 Accelerometer & Gyroscope
 
-![MPU6050](images/mpu6050.png)
+![MPU6050](images/impact-detection-sensor.png)
 
 *Figure 5: MPU6050 Motion Tracking Sensor.*
 
 ### NEO-6M GPS Module
 
-![GPS Module](images/neo6m-gps.png)
+![GPS Module](images/gps-module.png)
 
 *Figure 6: NEO-6M GPS Module.*
 
 ### SIM900A GSM Module
 
-![SIM900A](images/sim900a.png)
+![SIM900A](images/sim-module.png)
 
 *Figure 7: SIM900A GSM Communication Module.*
 
@@ -85,13 +85,11 @@ The system continuously monitors rider conditions using multiple sensors and aut
 
 Project source code is available in:
 
-```text
-code/smart_helmet_stm32.ino
-```
+![Source code](code/smart-helmet-stm32.ino)
 
 ## Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype-assembly.png)
 
 *Figure 8: Smart Motorcycle Helmet Prototype.*
 
@@ -99,7 +97,7 @@ code/smart_helmet_stm32.ino
 
 ### Serial Monitor Output
 
-![Serial Monitor](results/serial-monitor-output.jpg)
+![Serial Monitor](results/serial-monitor-result.png)
 
 *Figure 9: Serial monitor showing sensor readings and system status.*
 
@@ -145,20 +143,11 @@ code/smart_helmet_stm32.ino
 
 Complete project documentation is available in:
 
-```text
-docs/smart-motorcycle-helmet-report.pdf
-```
+![View Project Report](docs/minor-project-report.pdf)
 
-## Team Members
+## Author
 
-* Vraj Shah
-* Rishabh Shaw
-* Ansh Taralekar
-* Mohd. Gibran Ulde
-
-## Supervisor
-
-Dr. Priya Hankare
+Ansh Taralekar
 
 ## License
 
