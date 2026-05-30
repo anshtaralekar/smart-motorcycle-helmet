@@ -87,6 +87,12 @@ Project source code is available in:
 
 [Source code](code/smart-helmet-stm32.ino)
 
+### Libraries Required
+
+- TinyGPS++
+- MPU6050_tockn
+- Wire (Built-in Arduino Library)
+
 ## Prototype
 
 ![Prototype](images/prototype-assembly.png)
